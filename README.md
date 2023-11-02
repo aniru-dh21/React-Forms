@@ -1,6 +1,4 @@
 <div align="center">
-
-[![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-brightgreen?logo=freeCodeCamp)](https://www.freecodecamp.org/)
 [![React](https://img.shields.io/badge/-React-blue?logo=React)](https://reactjs.org/)
 [![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-6E36F6?logo=React&logoColor=white&color=6E36F6)](https://react-hook-form.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=Tailwind%20CSS&logoColor=black&color=white)](https://tailwindcss.com/)
